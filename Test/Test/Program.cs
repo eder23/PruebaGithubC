@@ -11,7 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo ");
-            for (int i = 0; i < = 10; i++)
+            for (int i = 0; i <= 10; i++)
             {
                 Console.WriteLine(i);
             }
